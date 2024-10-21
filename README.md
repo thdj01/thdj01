@@ -22,9 +22,9 @@ Alongside my robotics work, I am also actively developing web applications using
   - **E-commerce Platform**: Developed a scalable e-commerce website using React and integrated it with a backend API.
 
 ## 🛠️ Skills & Technologies
-- **Languages**: Python, JavaScript, C++
+- **Languages**: JavaScript, Python
 - **Frameworks**: React.js, Next.js, Node.js
-- **Tools**: ROS2, OpenCV, Git, Docker
+- **Tools**: ROS2, OpenCV, Git
 
 ## 🔗 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dhruv-suthar-a8249b214/) 
