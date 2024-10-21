@@ -28,6 +28,6 @@ Alongside my robotics work, I am also actively developing web applications using
 
 ## 🔗 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dhruv-suthar-a8249b214/) 
-- [Personal Website](https://dhruvsuthar.vercel.app/) 
+- [Website](https://dhruvsuthar.vercel.app/) 
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or opportunities.
